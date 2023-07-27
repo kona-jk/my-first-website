@@ -535,19 +535,6 @@ border: 0;
   width: 40%;
   margin-right: 30px;
 }
-.about-img img{
-  position: relative;
-}
-.about-img img::before{
-position: absolute;
-content: "";
-background-color: #2e2d2d;
-width: 50%;
-opacity: .3;
-
-
-}
-
 
 .about-content{
   width: 672px;
